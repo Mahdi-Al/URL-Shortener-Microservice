@@ -1,0 +1,26 @@
+{
+  "name": "url-shortener-microservice",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/Mahdi-Al/URL-Shortener-Microservice#readme",
+  "bugs": {
+    "url": "https://github.com/Mahdi-Al/URL-Shortener-Microservice/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mahdi-Al/URL-Shortener-Microservice.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "body-parser": "^2.2.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0"
+  }
+}
